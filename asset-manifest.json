@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/testTask_Agora/static/js/main.27a78bdc.js",
+    "main.js": "/testTask_Agora/static/js/main.a8eb5e49.js",
     "index.html": "/testTask_Agora/index.html",
-    "main.27a78bdc.js.map": "/testTask_Agora/static/js/main.27a78bdc.js.map"
+    "main.a8eb5e49.js.map": "/testTask_Agora/static/js/main.a8eb5e49.js.map"
   },
   "entrypoints": [
-    "static/js/main.27a78bdc.js"
+    "static/js/main.a8eb5e49.js"
   ]
 }
