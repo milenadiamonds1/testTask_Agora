@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<GalleryList />} />
+        <Route path="/testTask_Agora" element={<GalleryList />} />
         <Route path="/photo/:id" element={<Photo />} />
       </Routes>
     </Router>
